@@ -1,0 +1,1 @@
+[![Swiizyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=swiizyy&count_private=true&show_icons=true2&border_radius=15&bg_color=262828&icon_color=78C2AD&border_color=78C2AD&title_color=78C2AD&text_color=b8ded6)](https://github.com/swiizyy/swiizyy)
